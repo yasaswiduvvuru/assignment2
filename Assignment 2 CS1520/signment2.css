@@ -1,0 +1,21 @@
+#headah {
+	text-align: center;
+	text-shadow: 2px 2px #FF0000;
+	color: green;
+}
+#intro {
+	text-align: justify;
+	color: orange;
+}
+
+#arith {
+	padding: 20px;
+	color: blue;
+	border: 20px dashed purple;
+}
+
+#bookmeme {
+	padding: 20px;
+	color: red;
+	border: 20px solid red;
+}
